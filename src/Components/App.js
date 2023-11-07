@@ -29,7 +29,7 @@ class App extends Component {
           <nav>
             <div className="nav-wrapper">
               <a href="/" className="brand-logo">
-                My Feed
+                News Feed
               </a>
             </div>
           </nav>
