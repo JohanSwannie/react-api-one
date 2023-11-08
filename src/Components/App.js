@@ -23,12 +23,15 @@ class App extends Component {
 
   render() {
     return (
-      <div className="container-fluid">
+      <div
+        className="container-fluid"
+        style={{ backgroundColor: "rgba(185, 218, 255, .2)" }}
+      >
         <div className="navbar-fixed">
           <nav>
-            <div className="nav-wrapper">
-              <a href="/" className="brand-logo">
-                International News, presented to you by Johan Swan
+            <div className="nav-wrapper" style={{ backgroundColor: "navy" }}>
+              <a href="/" className="brand-logo center">
+                International News - Presented to you by Johan Swan
               </a>
             </div>
           </nav>
