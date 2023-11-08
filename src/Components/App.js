@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import "./App.css";
 import News from "./News";
 import Sidenews from "./Sidenews";
 
