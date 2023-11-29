@@ -31,7 +31,7 @@ class App extends Component {
           <nav>
             <div className="nav-wrapper" style={{ backgroundColor: "navy" }}>
               <a href="/" className="brand-logo center">
-                International News - Proudly presented to you by Johan Swan
+                International News - Presented to you by Johan Swan
               </a>
             </div>
           </nav>
