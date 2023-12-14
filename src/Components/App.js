@@ -1,8 +1,8 @@
-import React, { Component } from "react";
+import React from "react";
 import News from "./News";
 import Sidenews from "./Sidenews";
 
-class App extends Component {
+class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
