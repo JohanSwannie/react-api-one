@@ -37,7 +37,7 @@ class App extends Component {
           </nav>
         </div>
         <div className="row">
-          <div className="col s8">
+          <div className="col s4">
             <News news={this.state.news1} />
             <News news={this.state.news2} />
           </div>
