@@ -30,8 +30,8 @@ class App extends Component {
         <div className="navbar-fixed">
           <nav>
             <div className="nav-wrapper" style={{ backgroundColor: "navy" }}>
-              <a href="/" className="brand-logo center">
-                International News - Presented to you by Johan Swan
+              <a href="/" className="brand-logo center font-size-3">
+                International News - Presented by Johan Swan
               </a>
             </div>
           </nav>
