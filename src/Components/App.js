@@ -29,7 +29,10 @@ class App extends Component {
       >
         <div className="navbar-fixed">
           <nav>
-            <div className="nav-wrapper" style={{ backgroundColor: "navy" }}>
+            <div
+              className="nav-wrapper"
+              style={{ backgroundColor: "steelblue" }}
+            >
               <a href="/" className="brand-logo center font-size-3">
                 International News - Presented by Johan Swan
               </a>
